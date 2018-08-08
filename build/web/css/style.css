@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 4, 2018, 5:43:28 PM
+    Author     : SUJAN HASAN
+*/
+*{margin: 0;padding: 0;}
+.clear{
+    overflow: hidden;
+}
+.headerContent{background: #202326;}
+.headerContent h1{
+   text-align: center;
+   padding: 10px;
+   color: antiquewhite;
+   
+}
+.subheader{float:left;}
+.subheader h2{padding:10px;}
+.subheaderlink{    float:right;
+    font-size:25px;
+    padding:10px;}
+.footer-section{height: 90px;background: #333;text-align:center;margin-top: 10px;}
+.footermenu{
+margin-top:10px;
+padding:5px;
+}
+.footermenu ul{
+padding:0px;margin:0px;list-style:none;text-align:center;
+}
+.footermenu ul li{
+display:inline-block;
+}
+.footermenu ul li a{
+font-size:20px;
+text-decoration:none;
+color:#f2f0e8
+}
+.footer-section p{
+	color:aquamarine;
+	font-size:18px;
+}
